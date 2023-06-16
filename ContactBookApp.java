@@ -199,7 +199,7 @@ public class ContactBookApp {
     }
 
     /*
-     * The wait method is a utility method in the ContactBookApp_DeChavez class
+     * The wait method is a utility method in the ContactBookApp class
      * used to pause the execution of the program for a specified number of
      * milliseconds
      */
